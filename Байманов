@@ -1,0 +1,36 @@
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Страница о человеке</title>
+  <link rel="stylesheet" href="karelin.css">
+</head>
+<body>
+
+<header>
+  <a href="Baymanow.html">Байманов Дмитрий</a>
+</header>
+
+<section class="profile">
+  <img src="photo/pivn.jfif" alt="Фото человека">
+  <h1>Карелин Иван</h1>
+  <p><strong>О себе:</strong> Ку! Меня зовут Дмитрий. Я люблю программирование, деньги и танки)). В свободное время играю в танки.</p>
+  <p><em>"Стремись не к успеху, а к деньгам."</em></p>
+
+  <div class="hobbies">
+    <h2>Мои увлечения</h2>
+    <ul>
+      <li>Программирование</li>
+      <li>Баня</li>
+      <li>Велосипеды</li>
+      <li>Самокаты</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  Сделано от души | 2025
+</footer>
+
+</body>
+</html>
